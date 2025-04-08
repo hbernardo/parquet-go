@@ -3,7 +3,7 @@ package parquet
 import (
 	"unsafe"
 
-	"github.com/parquet-go/parquet-go/internal/unsafecast"
+	"github.com/hbernardo/parquet-go/internal/unsafecast"
 )
 
 type allocator struct{ buffer []byte }

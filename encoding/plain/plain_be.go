@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/parquet-go/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go/encoding"
 )
 
 // TODO: optimize by doing the byte swap in the output slice instead of

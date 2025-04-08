@@ -7,7 +7,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/internal/quick"
+	"github.com/hbernardo/parquet-go/internal/quick"
 )
 
 type order[T cmp.Ordered] []T

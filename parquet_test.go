@@ -15,9 +15,9 @@ import (
 	"github.com/google/uuid"
 	"google.golang.org/protobuf/types/known/structpb"
 
-	"github.com/parquet-go/parquet-go"
-	"github.com/parquet-go/parquet-go/deprecated"
-	"github.com/parquet-go/parquet-go/internal/quick"
+	"github.com/hbernardo/parquet-go"
+	"github.com/hbernardo/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/internal/quick"
 )
 
 const (

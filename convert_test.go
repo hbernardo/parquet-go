@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/parquet-go/parquet-go"
-	"github.com/parquet-go/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go"
+	"github.com/hbernardo/parquet-go/deprecated"
 )
 
 type AddressBook1 struct {

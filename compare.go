@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"sync"
 
-	"github.com/parquet-go/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/deprecated"
 )
 
 // CompareDescending constructs a comparison function which inverses the order

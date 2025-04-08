@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/compress"
-	"github.com/parquet-go/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go/compress"
+	"github.com/hbernardo/parquet-go/encoding"
 )
 
 type mockNode struct {

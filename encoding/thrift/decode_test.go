@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/encoding/thrift"
+	"github.com/hbernardo/parquet-go/encoding/thrift"
 )
 
 func TestDecodeEOF(t *testing.T) {

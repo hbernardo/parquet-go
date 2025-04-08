@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/encoding/thrift"
+	"github.com/hbernardo/parquet-go/encoding/thrift"
 )
 
 var marshalTestValues = [...]struct {

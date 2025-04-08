@@ -4,7 +4,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/parquet-go/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go/encoding"
 )
 
 func TestValuesSize(t *testing.T) {

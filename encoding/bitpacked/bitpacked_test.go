@@ -3,8 +3,8 @@ package bitpacked_test
 import (
 	"testing"
 
-	"github.com/parquet-go/parquet-go/encoding/fuzz"
-	"github.com/parquet-go/parquet-go/encoding/rle"
+	"github.com/hbernardo/parquet-go/encoding/fuzz"
+	"github.com/hbernardo/parquet-go/encoding/rle"
 )
 
 func FuzzEncodeLevels(f *testing.F) {

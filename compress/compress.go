@@ -9,7 +9,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/parquet-go/parquet-go/format"
+	"github.com/hbernardo/parquet-go/format"
 )
 
 // The Codec interface represents parquet compression codecs implemented by the

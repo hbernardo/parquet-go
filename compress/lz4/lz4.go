@@ -2,7 +2,7 @@
 package lz4
 
 import (
-	"github.com/parquet-go/parquet-go/format"
+	"github.com/hbernardo/parquet-go/format"
 	"github.com/pierrec/lz4/v4"
 )
 

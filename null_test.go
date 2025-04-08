@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/deprecated"
-	"github.com/parquet-go/parquet-go/internal/quick"
+	"github.com/hbernardo/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/internal/quick"
 )
 
 func TestNullIndex(t *testing.T) {

@@ -9,9 +9,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/parquet-go/parquet-go/deprecated"
-	"github.com/parquet-go/parquet-go/encoding"
-	"github.com/parquet-go/parquet-go/format"
+	"github.com/hbernardo/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go/format"
 )
 
 // Kind is an enumeration type representing the physical types supported by the

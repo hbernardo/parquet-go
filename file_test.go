@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/parquet-go/parquet-go"
+	"github.com/hbernardo/parquet-go"
 )
 
 var testdataFiles []string

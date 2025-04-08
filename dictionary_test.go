@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/parquet-go/parquet-go"
-	"github.com/parquet-go/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go"
+	"github.com/hbernardo/parquet-go/encoding"
 )
 
 var dictionaryTypes = [...]parquet.Type{

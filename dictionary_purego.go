@@ -5,8 +5,8 @@ package parquet
 import (
 	"unsafe"
 
-	"github.com/parquet-go/parquet-go/internal/unsafecast"
-	"github.com/parquet-go/parquet-go/sparse"
+	"github.com/hbernardo/parquet-go/internal/unsafecast"
+	"github.com/hbernardo/parquet-go/sparse"
 )
 
 func (d *int32Dictionary) lookup(indexes []int32, rows sparse.Array) {

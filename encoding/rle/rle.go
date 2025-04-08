@@ -13,11 +13,11 @@ import (
 
 	"golang.org/x/sys/cpu"
 
-	"github.com/parquet-go/parquet-go/encoding"
-	"github.com/parquet-go/parquet-go/format"
-	"github.com/parquet-go/parquet-go/internal/bitpack"
-	"github.com/parquet-go/parquet-go/internal/bytealg"
-	"github.com/parquet-go/parquet-go/internal/unsafecast"
+	"github.com/hbernardo/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go/format"
+	"github.com/hbernardo/parquet-go/internal/bitpack"
+	"github.com/hbernardo/parquet-go/internal/bytealg"
+	"github.com/hbernardo/parquet-go/internal/unsafecast"
 )
 
 const (

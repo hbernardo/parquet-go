@@ -13,8 +13,8 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/parquet-go/parquet-go"
-	"github.com/parquet-go/parquet-go/internal/quick"
+	"github.com/hbernardo/parquet-go"
+	"github.com/hbernardo/parquet-go/internal/quick"
 )
 
 func TestGenericReader(t *testing.T) {

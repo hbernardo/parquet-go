@@ -14,11 +14,11 @@ import (
 	"reflect"
 	"slices"
 
-	"github.com/parquet-go/parquet-go/compress"
-	"github.com/parquet-go/parquet-go/encoding"
-	"github.com/parquet-go/parquet-go/encoding/plain"
-	"github.com/parquet-go/parquet-go/encoding/thrift"
-	"github.com/parquet-go/parquet-go/format"
+	"github.com/hbernardo/parquet-go/compress"
+	"github.com/hbernardo/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go/encoding/plain"
+	"github.com/hbernardo/parquet-go/encoding/thrift"
+	"github.com/hbernardo/parquet-go/format"
 )
 
 const (

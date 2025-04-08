@@ -5,7 +5,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/parquet-go/parquet-go"
+	"github.com/hbernardo/parquet-go"
 )
 
 func TestDedupeRowReader(t *testing.T) {

@@ -9,8 +9,8 @@ import (
 
 	"slices"
 
-	"github.com/parquet-go/parquet-go/compress"
-	"github.com/parquet-go/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go/compress"
+	"github.com/hbernardo/parquet-go/encoding"
 )
 
 // ReadMode is an enum that is used to configure the way that a File reads pages.
@@ -36,7 +36,7 @@ const (
 )
 
 const (
-	parquetGoModulePath = "github.com/parquet-go/parquet-go"
+	parquetGoModulePath = "github.com/hbernardo/parquet-go"
 )
 
 var (

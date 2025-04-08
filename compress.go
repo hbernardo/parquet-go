@@ -3,14 +3,14 @@ package parquet
 import (
 	"fmt"
 
-	"github.com/parquet-go/parquet-go/compress"
-	"github.com/parquet-go/parquet-go/compress/brotli"
-	"github.com/parquet-go/parquet-go/compress/gzip"
-	"github.com/parquet-go/parquet-go/compress/lz4"
-	"github.com/parquet-go/parquet-go/compress/snappy"
-	"github.com/parquet-go/parquet-go/compress/uncompressed"
-	"github.com/parquet-go/parquet-go/compress/zstd"
-	"github.com/parquet-go/parquet-go/format"
+	"github.com/hbernardo/parquet-go/compress"
+	"github.com/hbernardo/parquet-go/compress/brotli"
+	"github.com/hbernardo/parquet-go/compress/gzip"
+	"github.com/hbernardo/parquet-go/compress/lz4"
+	"github.com/hbernardo/parquet-go/compress/snappy"
+	"github.com/hbernardo/parquet-go/compress/uncompressed"
+	"github.com/hbernardo/parquet-go/compress/zstd"
+	"github.com/hbernardo/parquet-go/format"
 )
 
 var (

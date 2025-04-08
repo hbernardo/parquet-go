@@ -3,8 +3,8 @@
 package parquet
 
 import (
-	"github.com/parquet-go/parquet-go/deprecated"
-	"github.com/parquet-go/parquet-go/internal/unsafecast"
+	"github.com/hbernardo/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/internal/unsafecast"
 )
 
 func unsafecastInt96ToBytes(src []deprecated.Int96) []byte {

@@ -4,7 +4,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/parquet-go/parquet-go/internal/unsafecast"
+	"github.com/hbernardo/parquet-go/internal/unsafecast"
 )
 
 // Filter is an interface representing read-only bloom filters where programs

@@ -1,4 +1,4 @@
-module github.com/parquet-go/parquet-go
+module github.com/hbernardo/parquet-go
 
 go 1.23.4
 

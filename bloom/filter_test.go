@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/bloom"
+	"github.com/hbernardo/parquet-go/bloom"
 )
 
 func TestSplitBlockFilter(t *testing.T) {

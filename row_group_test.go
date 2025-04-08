@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/parquet-go/parquet-go"
+	"github.com/hbernardo/parquet-go"
 )
 
 func sortedRowGroup(options []parquet.RowGroupOption, rows ...any) parquet.RowGroup {

@@ -6,7 +6,7 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/parquet-go/parquet-go/format"
+	"github.com/hbernardo/parquet-go/format"
 )
 
 // GenericReader is similar to a Reader but uses a type parameter to define the

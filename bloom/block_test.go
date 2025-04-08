@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/bloom"
+	"github.com/hbernardo/parquet-go/bloom"
 )
 
 func TestBlock(t *testing.T) {

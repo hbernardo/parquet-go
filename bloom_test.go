@@ -4,10 +4,10 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/bloom"
-	"github.com/parquet-go/parquet-go/deprecated"
-	"github.com/parquet-go/parquet-go/internal/quick"
-	"github.com/parquet-go/parquet-go/internal/unsafecast"
+	"github.com/hbernardo/parquet-go/bloom"
+	"github.com/hbernardo/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/internal/quick"
+	"github.com/hbernardo/parquet-go/internal/unsafecast"
 )
 
 func TestSplitBlockFilter(t *testing.T) {

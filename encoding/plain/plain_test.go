@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/parquet-go/parquet-go/encoding/plain"
+	"github.com/hbernardo/parquet-go/encoding/plain"
 )
 
 func TestAppendBoolean(t *testing.T) {

@@ -5,7 +5,7 @@ package parquet
 import (
 	"encoding/binary"
 
-	"github.com/parquet-go/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/deprecated"
 )
 
 func unsafecastInt96ToBytes(src []deprecated.Int96) []byte {

@@ -8,7 +8,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/parquet-go/parquet-go/internal/unsafecast"
+	"github.com/hbernardo/parquet-go/internal/unsafecast"
 )
 
 // CompactProtocol is a Protocol implementation for the compact thrift protocol.

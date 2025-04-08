@@ -12,8 +12,8 @@ package rle
 import (
 	"testing"
 
-	"github.com/parquet-go/parquet-go/encoding/fuzz"
-	"github.com/parquet-go/parquet-go/internal/quick"
+	"github.com/hbernardo/parquet-go/encoding/fuzz"
+	"github.com/hbernardo/parquet-go/internal/quick"
 )
 
 func FuzzEncodeBoolean(f *testing.F) {

@@ -7,8 +7,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/parquet-go/parquet-go"
-	"github.com/parquet-go/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go"
+	"github.com/hbernardo/parquet-go/deprecated"
 )
 
 func TestSizeOfValue(t *testing.T) {

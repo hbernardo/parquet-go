@@ -8,7 +8,7 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/parquet-go/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/deprecated"
 )
 
 func columnIndexInt32Values(values []int32) []byte {

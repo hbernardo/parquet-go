@@ -14,8 +14,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/parquet-go/parquet-go"
-	"github.com/parquet-go/parquet-go/encoding"
+	"github.com/hbernardo/parquet-go"
+	"github.com/hbernardo/parquet-go/encoding"
 )
 
 func TestGenericBuffer(t *testing.T) {

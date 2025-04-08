@@ -8,7 +8,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/parquet-go/parquet-go/internal/debug"
+	"github.com/hbernardo/parquet-go/internal/debug"
 )
 
 // GenericBuffer is similar to a Buffer but uses a type parameter to define the

@@ -3,8 +3,8 @@ package encoding
 import (
 	"fmt"
 
-	"github.com/parquet-go/parquet-go/deprecated"
-	"github.com/parquet-go/parquet-go/internal/unsafecast"
+	"github.com/hbernardo/parquet-go/deprecated"
+	"github.com/hbernardo/parquet-go/internal/unsafecast"
 )
 
 type Kind int32
